@@ -20,40 +20,38 @@
 
 ---
 
-## 🧠 Proje Hakkında
+## 🧠 About the Project
 
-Bu repo, **Veri Bilimi ve Makine Öğrenmesi öğrenme sürecimde** oluşturduğum Jupyter Notebook çalışmalarını içermektedir.
+This repository contains Jupyter Notebook studies that I created during my **Data Science and Machine Learning learning process**.
 
-İçerikte;
+The content includes:
 
-- NumPy temel işlemleri
-- Matris işlemleri
-- Pandas veri analizi
-- DataFrame yapıları
-- CSV veri setleri ile çalışma
-- Veri birleştirme (merge, concat)
-- Apply & fonksiyon işlemleri
-
-bulunmaktadır.
+- NumPy basic operations  
+- Matrix operations  
+- Pandas data analysis  
+- DataFrame structures  
+- Working with CSV datasets  
+- Data merging (merge, concat)  
+- Apply & function operations  
 
 ---
 
-## 📁 Notebook İçeriği
+## 📁 Notebook Contents
 
-| Notebook | Açıklama |
-|---------|----------|
-| IntroToNumpy | NumPy giriş |
-| Numpy_Matrisleri | Matris işlemleri |
-| Numpy_Operation | NumPy operasyonları |
-| IntroToPandas | Pandas giriş |
-| IntroToDataframe | DataFrame yapısı |
-| DataFrameOperation | Veri işlemleri |
-| DataFrameConcat | Concat işlemleri |
-| DataFramesApply | Apply fonksiyonları |
+| Notebook | Description |
+|---------|-------------|
+| IntroToNumpy | Introduction to NumPy |
+| Numpy_Matrisleri | Matrix operations |
+| Numpy_Operation | NumPy operations |
+| IntroToPandas | Introduction to Pandas |
+| IntroToDataframe | DataFrame structure |
+| DataFrameOperation | Data operations |
+| DataFrameConcat | Concat operations |
+| DataFramesApply | Apply functions |
 
 ---
 
-## 📊 Kullanılan Veri Setleri
+## 📊 Datasets Used
 
 - employee.csv  
 - weather.xlsx  
@@ -65,7 +63,7 @@ bulunmaktadır.
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
+## 🛠️ Technologies Used
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
@@ -76,15 +74,15 @@ bulunmaktadır.
 
 ---
 
-## ▶️ Notebook’ları Colab’da Aç
+## ▶️ Open Notebooks in Colab
 
-Aşağıdaki butonla repoyu Google Colab’da açabilirsin:
+You can open the repository directly in Google Colab using the button below:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cemreeyrtsvr/PythonForDataScience)
 
 ---
 
-## 🚀 Kurulum
+## 🚀 Installation
 
 ```bash
 git clone https://github.com/cemreeyrtsvr/PythonForDataScience.git
